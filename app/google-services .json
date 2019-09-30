@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533750326758",
+    "firebase_url": "https://facedetection-dcc25.firebaseio.com",
+    "project_id": "facedetection-dcc25",
+    "storage_bucket": "facedetection-dcc25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533750326758:android:108190ffd93aeab3fae227",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533750326758-hpe5711ht0065gcmtlt39hmo4j4hgf5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhkVn9SFrxEZOnbyGpsugqAMJVNzZlwys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533750326758-hpe5711ht0065gcmtlt39hmo4j4hgf5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
